@@ -13,3 +13,4 @@ $git commit -m "first commit"// comment
 b5: up lên github
 $ git push
 // chua dang nh?p thì dang nh?p. EZ
+sadasd
